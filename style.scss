@@ -1,0 +1,27 @@
+:root {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #111;
+}
+
+.input-form {
+    display: flex;
+    justify-content: center;
+}
+
+.answer {
+    font-weight: bolder;
+}
+
+.message_correct {
+    color: green;
+    font-size: x-large;
+    font: bolder;
+}
+
+.message_incorrect {
+    color: red;
+    font-size: larger;
+    font: bolder;
+}
